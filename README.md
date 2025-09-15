@@ -34,12 +34,22 @@ Es una herramienta práctica y divertida, ideal para ferias, reuniones o simplem
 Sería genial contar con tu feedback  
 ¡Muchas gracias por tu tiempo!
 </p>
-<div="center">
-  <img src="app 1 vis.jpg" alt="imagen de la app" width="600"/>
-   <img src="app 2 vis.jpg" alt="imagen de la app" width="600"/>
- <img src="app 3 vis.jpg" alt="imagen de la app" width="600"/>
-   <img src="app 4 vis.jpg" alt="imagen de la app" width="600"/>
-</div>
+<h3>¡Hola! Bienvenido/a a la app</h3>
+
+<p>Aquí te mostramos, paso a paso, cómo usarla.</p>
+
+<p>Ingresa el primer nombre:</p>
+<img src="app 1 vis.jpg" alt="Imagen de la app - Paso 1" width="600"/>
+
+<p>Crea la lista de nombres:</p>
+<img src="app 2 vis.jpg" alt="Imagen de la app - Paso 2" width="600"/>
+
+<p>Haz clic y, ¡rápido sabrás quién ganó!</p>
+<img src="app 3 vis.jpg" alt="Imagen de la app - Paso 3" width="600"/>
+
+<p>Tenemos un ganador. Una vez terminado, puedes reiniciar el juego.</p>
+<img src="app 4 vis.jpg" alt="Imagen de la app - Paso 4" width="600"/>
+
 
 
 
