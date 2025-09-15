@@ -19,11 +19,14 @@ function agregarAmigo() {
   const amigo = inputAmigo.value.trim(); // Se añade .trim() para eliminar espacios al inicio y final
   const regex = /^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s]*$/;
 
-  if (amigo === "" && !regex.test(amigo)) {
+  if (amigo === "") {
     alert("Ingresa un nombre válido.");
     return;
   }
-
+  if (amigo === !regex.test(amigo)) {
+    alert("Ingresa un nombre válido.");
+    return;
+  }
   const listaActual = Array.from(ulListaAmigos.querySelectorAll("li")).map(li => li.textContent);
   const yaExiste = listaActual.some(nombre => nombre.toLowerCase() === amigo.toLowerCase());
   if (yaExiste) {
@@ -92,5 +95,6 @@ function actualizarUI() {
 // Inicializar UI
 renderLista();
 actualizarUI();
+
 
 //HACER UN REGEX DE VALIDACIONES
