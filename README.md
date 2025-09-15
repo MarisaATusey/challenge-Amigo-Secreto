@@ -34,4 +34,13 @@ Es una herramienta práctica y divertida, ideal para ferias, reuniones o simplem
 Sería genial contar con tu feedback  
 ¡Muchas gracias por tu tiempo!
 </p>
+<p align="center">
+  <img src="https://drive.google.com/file/d/1E1S6AyeSwTZ5c0sIKpYegiEQdgf2sq1R/view?usp=sharing" alt="imagen de la app" width="600"/>
+   <img src="https://drive.google.com/file/d/1B0ICNdwpRI0CfrGqwgGb0b-iPQuOfud-/view?usp=drive_link" alt="imagen de la app" width="600"/>
+ <img src=" https://drive.google.com/file/d/18W106k1a2S6or7TL_G9Ky02w1kLZBaGX/view?usp=sharing" alt="imagen de la app" width="600"/>
+   <img src="https://drive.google.com/file/d/1EKEWDAmce1Qd_qefM0a913SprSdM3uLu/view?usp=drive_link" alt="imagen de la app" width="600"/>
+ 
+</p>
+
+
 
