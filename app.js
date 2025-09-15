@@ -34,7 +34,7 @@ function agregarAmigo() {
     return;
   }
 
-  else if (amigo.length < 2) {
+  if (amigo.length < 2) {
     alert("El nombre debe tener al menos 2 caracteres.");
     return;
   }
@@ -98,3 +98,4 @@ actualizarUI();
 
 
 //HACER UN REGEX DE VALIDACIONES
+
