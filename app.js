@@ -27,18 +27,17 @@ function agregarAmigo() {
     alert("Ingresa un nombre válido.");
     return;
   }
+
+  if (amigo.length < 2) {
+    alert("El nombre debe tener al menos 2 caracteres.");
+    return;
+  }
   const listaActual = Array.from(ulListaAmigos.querySelectorAll("li")).map(li => li.textContent);
   const yaExiste = listaActual.some(nombre => nombre.toLowerCase() === amigo.toLowerCase());
   if (yaExiste) {
     alert("Este nombre ya está en la lista.");
     return;
   }
-
-  if (amigo.length < 2) {
-    alert("El nombre debe tener al menos 2 caracteres.");
-    return;
-  }
-
   // Si todas las validaciones pasan, se agrega el amigo
   const nuevoAmigo = document.createElement("li");
   nuevoAmigo.textContent = amigo;
@@ -98,4 +97,5 @@ actualizarUI();
 
 
 //HACER UN REGEX DE VALIDACIONES
+
 
