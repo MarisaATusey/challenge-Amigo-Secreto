@@ -15,8 +15,7 @@ Privacidad y confianza: los nombres quedan dentro de la app hasta el momento de 
  <h2>¿Para quién es? 👥</h2
 <p> Ideal para fiestas de cumpleaños, reuniones entre amigos, clubs de lectura o cualquier grupo que quiera añadir dinamismo a su encuentro. 🎂🎊📚
 ¿Listo para descubrir a tu amigo secreto de forma rápida y emocionante?
-Descarga la app, añade a tu grupo y deja que el sorteo haga la magia. ✨📲
-Nota: Si quieres que adapte el texto a un tono más formal, comercial B2B, o a un formato específico ( landing page, anuncio en redes, ficha de producto ), dime el objetivo y el público y te lo adapto. 🧭💼 </p>
+Descarga la app, añade a tu grupo y deja que el sorteo haga la magia. ✨📲</p>
 <p>
 <h2> Codigo JavaScript (JS) </h2>
 Lo que incluye:
@@ -29,11 +28,11 @@ Lo que incluye:
  Diseño responsive, optimizado para desktop y móvil
  Pruebas automatizadas (Jest + jsdom) que validan desde entradas inválidas hasta el flujo completo del sorteo y reinicio
 Además, se puede probar en vivo a través de la demo hospedada (¡sin necesidad de instalar nada!).  
-¿Por qué vale la pena revisarlo?
-Es una herramienta práctica y divertida, ideal para ferias, reuniones o simplemente para poner en práctica DOM, validación, testing y lógica de interacción.
-Sería genial contar con tu feedback  
-¡Muchas gracias por tu tiempo!
-</p>
+Cuenta de Github para descargar los archivos actualizados y poder ejecutarlos.
+En caso de no querer descargar los archivos, puede ejecutarse online desde github en este enlace https://marisaatusey.github.io/challenge-Amigo-Secreto/.</p>
+<h4>Sería genial contar con tu feedback </h4>
+<h4>¡Muchas gracias por tu tiempo!</h4>
+<hr>
 <h3>¡Hola! Bienvenido/a a la app</h3>
 
 <p>Aquí te mostramos, paso a paso, cómo usarla.</p>
